@@ -3,4 +3,4 @@ This repository concerns the process of transforming a point cloud data of a ter
 
 
 
-Drive for the files .las, .tif and .tfw: https://drive.google.com/file/d/1oF8HwK_MJfxDBFOdH6SP_8Yl8fjD0WWy/view?usp=sharing
+Drive for the point cloud files (.las, .tif and .tfw): https://drive.google.com/file/d/1oF8HwK_MJfxDBFOdH6SP_8Yl8fjD0WWy/view?usp=sharing
