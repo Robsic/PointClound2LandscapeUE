@@ -28,6 +28,8 @@ las2txt -i "<PATH>\file.las" -o output_with_rgb.txt --parse xyzRGB
 
 :: To convert for Landscape:
 
-java GerarHeightMap16Bits -width 4033 -normalize_x_y false
+java HeightMap16Bits_generator -width 4033 -normalize_x_y false
 
+
+:: Heightmap result:
 
