@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tds-heightmap"
+version = "1.0.0"
+description = "Tolerance Diamond-Square and Confidence-Adaptive Tolerance Diamond-Square for filling sparse heightmaps"
+requires-python = ">=3.8"
+authors = [{ name = "Érick Oliveira Rodrigues" }]
+dependencies = ["numpy>=1.20", "pillow>=8.0"]
+
+[project.optional-dependencies]
+fast = ["numba>=0.55"]
+
+[tool.setuptools]
+packages = ["tds"]
